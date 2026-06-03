@@ -41,7 +41,6 @@ The project is built using React, React Router, Redux Toolkit, and React Redux. 
 
 ## Project Structure
 
-```text
 src
 │
 ├── components
@@ -69,7 +68,6 @@ src
 │
 ├── App.jsx
 └── main.jsx
-```
 
 ---
 
